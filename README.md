@@ -1,21 +1,24 @@
 # PROJECT-UTS-PEMROGRAMAN-WEB
+NAMA : BRYAN MALVINO S.A.P
+NIM  : 2205101077
+KELAS: TIF 5D
 UTS PEMROGRAMAN WEB
 Poject-UTS
-Kerapu Cantang: Menyelami Keindahan dan Keberlanjutan Laut Indonesia
+Lidah Buaya: Keindahan Dan Manfaat Tanaman Endemik Indonesia
 
 Deskripsi Proyek
-Proyek ini bertujuan untuk memperkenalkan keindahan dan keberlanjutan laut Indonesia, dengan fokus utama pada budidaya ikan kerapu cantang. Ikan kerapu cantang, yang ditemukan di perairan tropis Indonesia, memiliki peran penting dalam ekonomi lokal, industri perikanan, dan ekosistem laut. Seiring dengan meningkatnya pemanfaatan sumber daya laut, sangat penting untuk mempromosikan praktik perikanan berkelanjutan dan menjaga kelestarian spesies ini.
+Proyek ini bertujuan untuk memperkenalkan budidaya dan manfaat lidah buaya Indonesia, dengan fokus utama pada budidaya lidah buaya.Lidah Buaya, yang ditemukan di wilayah tropis Indonesia, memiliki peran penting dalam ekonomi lokal, industri pertanian, dan ekosistem hutan. Seiring dengan meningkatnya pemanfaatan sumber daya alam, sangat penting untuk mempromosikan praktik pertanian berkelanjutan dan menjaga kelestarian spesies ini.
 
 Proyek ini mencakup tiga aspek utama yang dapat diakses oleh pengunjung:
 
-1. Pelatihan Budidaya Kerapu Cantang
-Memberikan pelatihan kepada petani dan masyarakat tentang cara membudidayakan ikan kerapu cantang secara ramah lingkungan dan berkelanjutan. Program pelatihan ini mencakup teknik-teknik penting dalam budidaya, pengelolaan kualitas air, dan pakan yang tepat.
+1. Pelatihan Budidaya Lidah Buaya
+Memberikan pelatihan kepada petani dan masyarakat tentang cara membudidayakan lidah buaya cantang secara ramah lingkungan dan berkelanjutan. Program pelatihan ini mencakup teknik-teknik penting dalam budidaya, pengelolaan kualitas air, dan memberi pupuk yang baik.
 
-2. Wisata Alam Laut
-Menawarkan pengalaman wisata yang mengajak pengunjung untuk menikmati keindahan bawah laut Indonesia. Wisata ini memberi kesempatan untuk belajar tentang ekosistem laut dan pentingnya konservasi biota laut, termasuk kerapu cantang.
+2. Wisata Alam 
+Menawarkan pengalaman wisata yang mengajak pengunjung untuk menikmati keindahan alam Indonesia. Wisata ini memberi kesempatan untuk belajar tentang ekosistem hutan dan pentingnya konservasi tanaman, termasuk lidah buaya.
 
 3. Penelitian dan Konservasi
-Proyek ini juga berfokus pada penelitian ilmiah mengenai ekosistem laut Indonesia dan upaya konservasi kerapu cantang. Kolaborasi dengan ilmuwan dan peneliti membantu memahami dampak lingkungan terhadap spesies ini dan mencari solusi untuk pelestariannya.
+Proyek ini juga berfokus pada penelitian ilmiah mengenai ekosistem hutan Indonesia dan upaya konservasi lidah buaya. Kolaborasi dengan ilmuwan dan peneliti membantu memahami dampak lingkungan terhadap spesies ini dan mencari solusi untuk pelestariannya.
 
 Fitur Utama
 Navigasi yang Mudah: Pengguna dapat menavigasi konten dengan mudah melalui menu utama dan dropdown "Layanan Kami".
